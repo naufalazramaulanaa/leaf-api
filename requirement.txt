@@ -1,0 +1,4 @@
+flask
+flask-cors
+tensorflow==2.7.0
+pillow
